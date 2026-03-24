@@ -4,7 +4,7 @@ class Pod2spm < Formula
   desc "Wrap CocoaPods as Swift Package Manager binary packages"
   homepage "https://github.com/charanganesh/pod2spm"
   url "https://github.com/charanganesh/pod2spm/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "" # Fill after first GitHub release
+  sha256 "387ed49b3dd8f7ad0103c297dfdd79998181f1c97756ae55b87edcc701c3f130"
   license "MIT"
 
   depends_on "python@3.13"
